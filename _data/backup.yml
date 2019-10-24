@@ -14,7 +14,7 @@ websites:
     tfa: Yes
     sms: Yes
     software: Yes
-    harware: Yes
+    hardware: Yes
     otp: Yes
     doc: https://help.backblaze.com/hc/en-us/articles/217666588
 
